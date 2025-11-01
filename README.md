@@ -29,6 +29,7 @@ The bot uses an OpenAI model and modular prompt injection, making it easy to swa
 
 ### Installation
 
+(Refer to Dockerfile for full details)
 Clone the repository and install dependencies:
 
 ```bash
