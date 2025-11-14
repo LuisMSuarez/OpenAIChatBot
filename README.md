@@ -1,10 +1,10 @@
-# OpenAIChatBot 🎡🤖
+# OpenAIChatBot 🤖
 
 Welcome to **OpenAIChatBot** — an interactive, customizable chatbot that brings the magic of OpenAI’s APIs to life! This project features a playful virtual assistant designed to delight users with engaging and helpful responses, all powered by configurable prompt engineering.
 
 ## ✨ What is OpenAIChatBot?
 
-OpenAIChatBot is a full-stack chatbot experience built in TypeScript, React, and Express, designed for fun themed scenarios. Out of the box, it acts as “Wonder World” theme park’s cheeriest customer support agent — ready to answer questions about rides, shows, dining, tickets, park hours, and more!
+OpenAIChatBot is a full-stack chatbot experience built in TypeScript, React, and Express. Out of the box, it acts as a customer support agent — ready to answer questions.
 
 The bot uses an OpenAI model and modular prompt injection, making it easy to swap the theme or personality for any use case. All responses are lively, helpful, and always on brand.
 
